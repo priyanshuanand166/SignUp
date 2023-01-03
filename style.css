@@ -50,18 +50,18 @@ body
     margin: 20px 0;
 }
 
-/* .signup-body p
+.signup-body p
 {
     margin: 10px 0;
-} */
+}
 
-/* .signup-body label
+.signup-body label
 {
     display: block;
     font-weight: bold;
-} */
+}
 
-/* .signup-body p input
+.signup-body p input
 {
     width: 100%;
     padding: 10px;
@@ -70,20 +70,20 @@ body
     font-size: 1rem;
     margin: 4px;
     /* text-align: center; */
-} */
+}
 
-/* .signup-body p input[type="submit"]
+.signup-body p input[type="submit"]
 {
     background-color: #3498db;
     border: none;
     color: white;
     cursor: pointer;
-} */
+}
 
-/* .signup-body p input[type="submit"]:hover
+.signup-body p input[type="submit"]:hover
 {
     background-color: #2773a5;
-} */
+}
 
 /* .signup-footer p
 {
